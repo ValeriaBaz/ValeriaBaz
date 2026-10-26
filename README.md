@@ -1,6 +1,8 @@
 
 # Hola!! Soy Valeria 👋
-
+<div align="center">
+  <img src="./readmefile.jpeg" width="800" alt="Machine Learning y ciencia de datos">
+</div>
 ### Statistical Methodology · Machine Learning · AI Engineering
 
 Mi trayectoria parte de la **metodología y la estadística aplicada**, una base desde la que he ido orientando mi perfil hacia el desarrollo, la evaluación y la aplicación de modelos de Machine Learning.
