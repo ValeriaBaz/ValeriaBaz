@@ -1,15 +1,14 @@
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Valeria Baz — Machine Learning & AI Engineering">
+</div>
 
 # Hola!! Soy Valeria 👋
-
-### Statistical Methodology · Machine Learning · AI Engineering
 
 Mi trayectoria parte de la **metodología y la estadística aplicada**, una base desde la que he ido orientando mi perfil hacia el desarrollo, la evaluación y la aplicación de modelos de Machine Learning.
 
 Me interesa conectar el rigor del análisis estadístico con la capacidad predictiva de los algoritmos de aprendizaje automático, avanzando desde los métodos clásicos de modelado hacia arquitecturas de Deep Learning y sistemas de inteligencia artificial.
 
 Actualmente estoy ampliando esta trayectoria con dos formaciones de máster: una orientada a la **ingeniería de automatización con IA agéntica** y otra a la **ingeniería de datos**.
-
-
 
 ## 🧭 Áreas de conocimiento e interés
 
