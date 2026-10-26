@@ -9,6 +9,8 @@ Me interesa conectar el rigor del análisis estadístico con la capacidad predic
 
 Actualmente estoy ampliando esta trayectoria con dos formaciones de máster: una orientada a la **ingeniería de automatización con IA agéntica** y otra a la **ingeniería de datos**.
 
+![Mi perfil](./readmefile.png)
+
 ## 🧭 Áreas de conocimiento e interés
 
 ### 📊 Estadística aplicada y metodología
