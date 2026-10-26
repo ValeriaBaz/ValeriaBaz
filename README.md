@@ -71,6 +71,8 @@ Proyectos y experimentos con redes neuronales para tareas de regresión y modela
 
 Mi objetivo es seguir desarrollando una visión integral del ciclo de vida de los modelos: desde la comprensión de los datos y la selección del enfoque metodológico hasta el entrenamiento, la evaluación y su posible integración en sistemas de IA.
 
----
+<div align="center">
+  <img src="./readmefile.jpeg" width="800" alt="Machine Learning y ciencia de datos">
+</div>
 
 *Metodología y estadística como base; Machine Learning e ingeniería de IA como dirección.*
